@@ -115,21 +115,9 @@ Este laboratorio fortalece habilidades como:
 ```plaintext
 InfraOps-Lab
 │
-├── index.html
+├── assets/
 ├── README.md
-│
-└── assets
-     ├── images
-     │    banner.png
-     │    datacenter.png
-     │
-     ├── icons
-     │    server.svg
-     │    firewall.svg
-     │    database.svg
-     │
-     └── docs
-          guia_docente.pdf
+└── index.html
 ```
 
 ---
